@@ -5,7 +5,7 @@ This work builds off "From Econometrics, With Love: Causes and Counterfactuals f
 
 # references
 ## Papers
-[1] Machine Learning & Econometrics: https://web.stanford.edu/class/ee380/Abstracts/140129-slides-Machine-Learning-and-Econometrics.pdf. 
+[1] Machine Learning & Econometrics: https://web.stanford.edu/class/ee380/Abstracts/140129-slides-Machine-Learning-and-Econometrics.pdf <br/>
 [2] Regression Discontinuity: https://www.princeton.edu/~davidlee/wp/RDDEconomics.pdf. 
 [3] Huber Loss: https://arxiv.org/abs/1906.03751. 
 
