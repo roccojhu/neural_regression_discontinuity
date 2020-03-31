@@ -3,7 +3,7 @@ In this repository, I estimate a regression discontinuity, a quasi-experimental 
 
 This work builds off "From Econometrics, With Love: Causes and Counterfactuals for Machine Learning", first presented at the SAP Conference for Machine Learning 2020, St. Leon Rot.
 
-# references
+# References
 ## Papers
 [1] Machine Learning & Econometrics: https://web.stanford.edu/class/ee380/Abstracts/140129-slides-Machine-Learning-and-Econometrics.pdf <br/>
 [2] Regression Discontinuity: https://www.princeton.edu/~davidlee/wp/RDDEconomics.pdf <br/>
