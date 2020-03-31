@@ -1,4 +1,4 @@
-# ml_timeseries_ci
+# Neural Regression Discontinuity
 In this repository, I estimatea regression discontinuity, a quasi-experimental time-series inference method, using Convolutional Long Short-Term Memory Networks.
 
 This work builds off "From Econometrics, With Love: Causes and Counterfactuals for Machine Learning", first presented at the SAP Conference for Machine Learning 2020, St. Leon Rot.
