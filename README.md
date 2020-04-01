@@ -1,7 +1,7 @@
 # Neural Regression Discontinuity (NeRD)
 This repository houses neural regression discontinuity (NeRD), a framework for performing Regression Discontinuity estimation, a quasi-experimental method for causal inference in time-series, using Convolutional Long Short-Term Memory Networks.
 
-This work builds off "From Econometrics, With Love: Causes and Counterfactuals for Machine Learning", first presented at the SAP Conference for Machine Learning 2020, St. Leon Rot.
+This work builds off "From Econometrics, With Love: Causes and Counterfactuals for Machine Learning", presented at the SAP Conference for Machine Learning (CML) 2020, St. Leon Rot.
 
 # References
 ## Papers
