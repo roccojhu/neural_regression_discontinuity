@@ -16,5 +16,6 @@ This work builds off "From Econometrics, With Love: Causes and Counterfactuals f
 ## Packages and Tutorials
 [4] Google CausalImpact: https://github.com/tcassou/causal_impact <br/>
 [5] Causal Inference with Python: http://www.degeneratestate.org/posts/2018/Mar/24/causal-inference-with-python-part-1-potential-outcomes/ <br/>
+[6] Facebook Prophet: https://facebook.github.io/prophet/docs/quick_start.html
 
 
