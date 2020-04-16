@@ -6,7 +6,7 @@ This work builds off "From Econometrics, With Love: Causes and Counterfactuals f
 # References
 ## Papers
 [1] Stop Explaining Black Box Machine Learning Models for High Stakes Decisions and Use
-Interpretable Models Instead (Rudin 2019): https://arxiv.org/pdf/1811.10154.pdf
+Interpretable Models Instead (Rudin 2019): https://arxiv.org/pdf/1811.10154.pdf <br/>
 [2] Machine Learning & Econometrics: https://web.stanford.edu/class/ee380/Abstracts/140129-slides-Machine-Learning-and-Econometrics.pdf <br/>
 [3] Regression Discontinuity: https://www.princeton.edu/~davidlee/wp/RDDEconomics.pdf <br/>
 [4] Huber Loss: https://arxiv.org/abs/1906.03751
